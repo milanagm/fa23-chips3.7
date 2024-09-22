@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     ZenTest (4.11.2)
     addressable (2.8.7)
@@ -134,9 +133,6 @@ DEPENDENCIES
   sinatra (>= 2.0.2)
   sinatra-flash (= 0.3.0)
   webmock (= 3.3.0)
-
-RUBY VERSION
-   ruby 2.6.6p146
 
 BUNDLED WITH
    2.3.22
